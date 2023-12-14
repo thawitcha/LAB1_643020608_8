@@ -1,2 +1,3 @@
 Author: Thawitcha wongsathiam
 “Create Startfile.txt with author’s name.”
+“My personal quote: we will”
